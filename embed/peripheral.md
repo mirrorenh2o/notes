@@ -9,6 +9,7 @@
 - 实际系统是否支持某个功能/能力：还要看相关的软件是否被编译进了系统软件栈，就是系统中要有这个软件。
 
 ## 调研表
+linux 6.16-rc3 riscv driver support ：https://docs.qq.com/sheet/DQUVtRFdKUHFpb0do?tab=000001
 
 ### **表一：RISC-V设备外设与驱动支持**
 #### **字段说明**
